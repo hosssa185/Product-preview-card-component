@@ -31,7 +31,7 @@ body{
 }
 
 .crd-img{
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(./images/image-product-desktop.jpg);
     background-size: cover;
     width: 50%;
     background-position: center center;
@@ -95,7 +95,7 @@ button:hover{
         align-items: center;
     }
     .crd-img{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         background-size: cover;
         width: 100%;
         border-radius: .5rem .5rem 0 0 ;
